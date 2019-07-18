@@ -1,0 +1,15 @@
+{
+	"name": "sample-apigee-az-pipeline-proxy",
+	"description": "Sample maven-archetype-apigee-proxy API Proxy with Azure Pipeline",
+	"version": "1.0.0",
+	"devDependencies": {
+		"newman": "latest"
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"keywords": [],
+	"author": "",
+	"license": ""
+}
